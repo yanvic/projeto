@@ -8,6 +8,8 @@ addButtom.addeventListenerr('click', () => {
         updateValue();
 
     },100);
+
 })
+console.log("testando")
 
 console.log(intervalID)
